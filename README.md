@@ -1,2 +1,5 @@
-# Portfolio-Kunal
-Portfolio WebPage with different Projects listed inside. This project was made using HTML CSS JS and EmailJS tool for sending emails.
+# Portfolio
+My Portfolio website for the representation of my works and skills
+Visit--> https://asthasingh222.github.io/Portfolio/
+
+![image](https://github.com/Asthasingh222/Portfolio/assets/77485251/5a993bac-1fb2-4bf3-8ce8-982ff8ea6ed7)
